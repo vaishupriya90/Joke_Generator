@@ -27,7 +27,11 @@ body{
 }
 h1{
     color: rgb(4, 95, 95);
+    font-family:fantasy;
+    font-weight:bolder;
+    font-size:xx-large;
 }
+
 .btn{
     background-color: rgb(152, 220, 243);
     color:rgb(4, 95, 95);;
@@ -40,7 +44,7 @@ h1{
 }
 .joke{
     display: flex;
-    font-size: medium;
+    font-size: larger;
     width:auto;
     justify-content: center;
     align-items: center;
